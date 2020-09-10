@@ -25,6 +25,10 @@ de este repositorio es necesario tener localmente el wn+gloss+syn.txt y ejecutar
 
 ./word2vec_constraints -train fichero_corpus -output fichero_embedding -size 300 -window 5 -negative 5 -cbow 0 -lambdasim 0.01
 
+-Para entrenar los corpus obtenidos con deepwalk, se han utilizado los hiperparámetros por defecto de deepwalk
+
+./word2vec_constraints -train fichero_corpus -output fichero_embedding -size 128 -window 10 -cbow 0
+
 -Para evaluación en la tarea de similitud semántica de palabras dentro de \MVM-Embeddings:
 
 python3 evaluate_similarity.py -i fichero_embedding -lg idioma_del_conocimiento
