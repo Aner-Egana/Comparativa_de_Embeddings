@@ -1,0 +1,22 @@
+{'dataset': 'SimLex999', 'coverage': 1.0, 'pearson': 0.5382294938517099, 'spearman': 0.5298399784251641}
+{'dataset': 'MTurk-287', 'coverage': 0.8013937282229965, 'pearson': 0.6730938362183254, 'spearman': 0.6518216122759458}
+{'dataset': 'MTurk-771', 'coverage': 0.9987029831387808, 'pearson': 0.6569733403822325, 'spearman': 0.6806589133123032}
+{'dataset': 'MEN_DEV', 'coverage': 1.0, 'pearson': 0.7253497630499879, 'spearman': 0.763579372594605}
+{'dataset': 'MEN_TEST', 'coverage': 1.0, 'pearson': 0.7457070698963052, 'spearman': 0.761395401771798}
+{'dataset': 'MEN_ALL', 'coverage': 1.0, 'pearson': 0.7316673325651643, 'spearman': 0.7631957638344313}
+{'dataset': 'WS353_all', 'coverage': 0.9320113314447592, 'pearson': 0.6700918230616899, 'spearman': 0.7215500526410806}
+{'dataset': 'WS353_relatedness', 'coverage': 0.9246031746031746, 'pearson': 0.6248339533025804, 'spearman': 0.6246845533404423}
+{'dataset': 'WS353_similarity', 'coverage': 0.9458128078817734, 'pearson': 0.7688142041333098, 'spearman': 0.7841072869171761}
+{'dataset': 'WS353_set1', 'coverage': 0.9411764705882353, 'pearson': 0.7079631539519722, 'spearman': 0.7585721485626519}
+{'dataset': 'WS353_set2', 'coverage': 0.925, 'pearson': 0.62550167806333, 'spearman': 0.629692388652234}
+{'dataset': 'RG65', 'coverage': 1.0, 'pearson': 0.8129335549511426, 'spearman': 0.8466086085244764}
+{'dataset': 'VERB-143', 'coverage': 0.4166666666666667, 'pearson': 0.07605995041973232, 'spearman': 0.040845324698301634}
+{'dataset': 'MC-30', 'coverage': 1.0, 'pearson': 0.7983070463399258, 'spearman': 0.816957873491691}
+{'dataset': 'YP-130', 'coverage': 1.0, 'pearson': 0.798503249437747, 'spearman': 0.7786481116699735}
+{'dataset': 'SimVerb-3500', 'coverage': 1.0, 'pearson': 0.5598301069634474, 'spearman': 0.5554152057554027}
+{'dataset': 'RW', 'coverage': 0.6887905604719764, 'pearson': 0.45442927494379526, 'spearman': 0.44034109788412934}
+{'dataset': 'SemEval', 'coverage': 0.8195876288659794, 'pearson': 0.7269571325851666, 'spearman': 0.757077872611852}
+
+Tiempo para entrenar el word embedding: 150m0,246s
+
+Media de longitud de contextos: 110798459/20M

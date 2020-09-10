@@ -1,0 +1,24 @@
+Tiempo consumido para crear el corpus: 2m0,641s
+
+Tiempo consumido para crear el embedding: 106m30,953s
+
+Resultados de la evaluación de similaridad: 
+{'dataset': 'SimLex999', 'coverage': 1.0, 'pearson': 0.5327478183654677, 'spearman': 0.5146915277366126}
+{'dataset': 'MTurk-287', 'coverage': 0.8013937282229965, 'pearson': 0.684171933101522, 'spearman': 0.6788814291911792}
+{'dataset': 'MTurk-771', 'coverage': 0.9987029831387808, 'pearson': 0.6585015985494427, 'spearman': 0.6913370600110854}
+{'dataset': 'MEN_DEV', 'coverage': 1.0, 'pearson': 0.7472450191778378, 'spearman': 0.7830743339793566}
+{'dataset': 'MEN_TEST', 'coverage': 1.0, 'pearson': 0.7768198631943941, 'spearman': 0.7922492261250531}
+{'dataset': 'MEN_ALL', 'coverage': 1.0, 'pearson': 0.7566955635964322, 'spearman': 0.7867315992349104}
+{'dataset': 'WS353_all', 'coverage': 0.9320113314447592, 'pearson': 0.6657839926574396, 'spearman': 0.7049830495437811}
+{'dataset': 'WS353_relatedness', 'coverage': 0.9246031746031746, 'pearson': 0.6186187984329339, 'spearman': 0.6106104019575755}
+{'dataset': 'WS353_similarity', 'coverage': 0.9458128078817734, 'pearson': 0.7669189148839938, 'spearman': 0.7913336368186067}
+{'dataset': 'WS353_set1', 'coverage': 0.9411764705882353, 'pearson': 0.7335284134061081, 'spearman': 0.7754788102643937}
+{'dataset': 'WS353_set2', 'coverage': 0.925, 'pearson': 0.5623169605466326, 'spearman': 0.5592455603717784}
+{'dataset': 'RG65', 'coverage': 1.0, 'pearson': 0.8135825447622603, 'spearman': 0.8380850430102511}
+{'dataset': 'VERB-143', 'coverage': 0.4166666666666667, 'pearson': 0.21812178907343208, 'spearman': 0.046549201784917324}
+{'dataset': 'MC-30', 'coverage': 1.0, 'pearson': 0.8011410566563458, 'spearman': 0.8398798732110165}
+{'dataset': 'YP-130', 'coverage': 1.0, 'pearson': 0.7908310776736481, 'spearman': 0.7892348547107793}
+{'dataset': 'SimVerb-3500', 'coverage': 1.0, 'pearson': 0.5307182471770147, 'spearman': 0.5192373323014442}
+{'dataset': 'RW', 'coverage': 0.6887905604719764, 'pearson': 0.45613356321326853, 'spearman': 0.4415199356676343}
+{'dataset': 'SemEval', 'coverage': 0.8195876288659794, 'pearson': 0.763698700115385, 'spearman': 0.7875097119682597}
+

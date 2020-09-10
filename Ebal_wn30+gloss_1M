@@ -1,0 +1,22 @@
+{'dataset': 'SimLex999', 'coverage': 0.998998998998999, 'pearson': 0.4897939531629735, 'spearman': 0.4647429926668659}
+{'dataset': 'MTurk-287', 'coverage': 0.7839721254355401, 'pearson': 0.5671261986434274, 'spearman': 0.5611927274668803}
+{'dataset': 'MTurk-771', 'coverage': 0.9961089494163424, 'pearson': 0.6403097246587766, 'spearman': 0.6419993449662144}
+{'dataset': 'MEN_DEV', 'coverage': 0.9825, 'pearson': 0.7214685651043334, 'spearman': 0.7314290929278361}
+{'dataset': 'MEN_TEST', 'coverage': 0.994, 'pearson': 0.7274725411722037, 'spearman': 0.7337376576514657}
+{'dataset': 'MEN_ALL', 'coverage': 0.9863333333333333, 'pearson': 0.7234521296241002, 'spearman': 0.7321902579647837}
+{'dataset': 'WS353_all', 'coverage': 0.9291784702549575, 'pearson': 0.6021034138561606, 'spearman': 0.6284379549788623}
+{'dataset': 'WS353_relatedness', 'coverage': 0.9246031746031746, 'pearson': 0.5285693961873492, 'spearman': 0.5591745254190391}
+{'dataset': 'WS353_similarity', 'coverage': 0.9408866995073891, 'pearson': 0.7038139748835394, 'spearman': 0.6840159972393139}
+{'dataset': 'WS353_set1', 'coverage': 0.934640522875817, 'pearson': 0.6751747936475241, 'spearman': 0.6647982795167612}
+{'dataset': 'WS353_set2', 'coverage': 0.925, 'pearson': 0.5061633681899578, 'spearman': 0.5038395824530517}
+{'dataset': 'RG65', 'coverage': 0.9692307692307692, 'pearson': 0.7915166664636581, 'spearman': 0.7850027624106918}
+{'dataset': 'VERB-143', 'coverage': 0.3888888888888889, 'pearson': 0.15339106090433965, 'spearman': 0.13648666710404708}
+{'dataset': 'MC-30', 'coverage': 0.9666666666666667, 'pearson': 0.7256944014580219, 'spearman': 0.7337686838481599}
+{'dataset': 'YP-130', 'coverage': 1.0, 'pearson': 0.710609438344432, 'spearman': 0.6761290465027286}
+{'dataset': 'SimVerb-3500', 'coverage': 0.9968571428571429, 'pearson': 0.49850831868892653, 'spearman': 0.4879094931722992}
+{'dataset': 'RW', 'coverage': 0.6647000983284169, 'pearson': 0.465011756536044, 'spearman': 0.43889671727702473}
+{'dataset': 'SemEval', 'coverage': 0.8170103092783505, 'pearson': 0.7139570139715145, 'spearman': 0.7060677131794749}
+
+Tiempo para el entrenamiento del embedding: 16m9,096s
+
+Longitudu media de los contextos: 5543042/1M
